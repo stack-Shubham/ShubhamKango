@@ -1,0 +1,25 @@
+
+
+
+
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+/* css vaiables */
+
+:root{
+    --primary-color: #4458dc;
+    --primar-color2: #854fee;
+    --title-color: #141313;
+    --text-color: #777777;
+    --border-color: #201f1f17;
+    --gradient-color: linear-gradient(90deg,#4458dc 0%,#854fee 100%);
+    --shadow-color:0 10px 30px rgba(118,85,225,0.3);
+    --box-shadow: 0 10px 30px rgba(57,56,61,0.205);
+
+    /* font family variables */
+    --roboto:'Roboto',cursive;
+}
